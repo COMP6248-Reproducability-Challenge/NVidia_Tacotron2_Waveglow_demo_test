@@ -1,2 +1,2 @@
-# NVidia_Tacotron2_Waveglow_demo_test
+# NVidia_Tacotron2_Waveglow_test_sound_synthesis
 Sound synthesis by tacotron and WaveFlow
